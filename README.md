@@ -8,7 +8,7 @@ This lab introduces the use of `for` loops in Python. You will practice iteratin
 * Accumulate values (summing/counting) within a loop.
 
 ## Instructions
-1. Open `exercises.py`.
+1. Open `PE7exercises.py`.
 2. Complete the tasks inside the functions. 
 3. **Do not change the function names.**
 4. Run the file to see the results of the "Autocheck" at the bottom.
